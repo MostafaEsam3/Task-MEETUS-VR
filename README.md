@@ -1,2 +1,2 @@
-INSTALL PACKAGE : npn i 
+INSTALL PACKAGE : npm i 
 run project : npm start
